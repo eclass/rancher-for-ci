@@ -19,6 +19,6 @@
   "dependencies": {
     "axios": "^0.16.2",
     "lodash.merge": "^4.6.0",
-    "p-whilst": "^1.0.0"
+    "p-whilst": "^2.0.0"
   }
 }
