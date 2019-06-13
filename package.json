@@ -17,7 +17,7 @@
     "node >= 7.6.0"
   ],
   "dependencies": {
-    "axios": "^0.16.2",
+    "axios": "^0.18.0",
     "lodash.merge": "^4.6.0",
     "p-whilst": "^1.0.0"
   }
