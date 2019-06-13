@@ -1,4 +1,4 @@
-FROM node:8.4-alpine
+FROM node:8.16-alpine
 
 LABEL maintainer "Rafael Willians <me@rwillians.com>"
 
