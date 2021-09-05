@@ -33,7 +33,7 @@
     "@eclass/eslint-config": "2.0.1",
     "@eclass/semantic-release-npm-github-config": "3.0.1",
     "@semantic-release/changelog": "5.0.1",
-    "@semantic-release/git": "9.0.0",
+    "@semantic-release/git": "9.0.1",
     "@types/axios": "0.14.0",
     "@types/lodash.merge": "4.6.6",
     "eslint": "7.32.0",
